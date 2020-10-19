@@ -1,0 +1,8 @@
+['a_word', ['meaning1', ['example1'], 'meaning2', ['example1', 'example2', 'example3'], 'meaning3', ['example1']],
+'b_word', ['meaning1', ['example1', 'example2'], 'meaning2', ['example1', 'example2', 'example3']],
+'c_word', ['meaning1', ['example1', 'example2'], 'meaning2', ['example1'], 'meaning3', ['example1', 'example2'], 'meaning4', ['example1']],
+'d_word', ['meaning1', ['example1', 'example2', 'example3']],
+'e_word', ['meaning1', ['example1', 'example2', 'example3', 'example4'], 'meaning2', ['example1']],
+'f_word', ['meaning1', ['example1', 'example2', 'example3'], 'meaning2', ['example1'], 'meaning3', ['example1'], 'meaning4', ['example1', 'example2', 'example3']],
+'g_word', ['meaning1', ['example1'], 'meaning2', ['example1', 'example2']],
+'h_word', ['meaning1', ['example1', 'example2'], 'meaning2', ['example1'], 'meaning3', ['example1', 'example2']]]
